@@ -1,0 +1,12 @@
+Closure is a feature provided by the JavaScript function which enable to point a specific instance of some local variables inside a determinate function to access anytime you want during your code. This feature is useful to create some smart use of the values contained into the function body (package).
+In other words, in this case the variables of the function are free (independent), and remember the place where they were declared, mixing the environment where the function was created and the function itself. The programmer become able to match the data from a function previously declared with the new data stated.
+The programmer can use the closure anytime he wants and anywhere that he usually use an object with a single method.
+
+
+Resource 1. Eloquent JavaScript
+
+Resource 2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+Resource 3. http://www.w3schools.com/js/js_function_closures.asp
+
+Resource 4. https://developers.google.com/closure/
